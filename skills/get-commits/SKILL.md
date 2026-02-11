@@ -2,6 +2,9 @@
 name: get-commits
 description: Extract and parse local git commit history into structured JSON format with custom tags ([Why], [What], [Impact]). Use when generating changelogs, creating PR summaries, updating CHANGELOG.md files, or analyzing recent code changes. Parses conventional commits, extracts technical details and business impact, and returns flat JSON to save context tokens and reduce hallucinations during documentation generation.
 license: MIT
+metadata:
+  author: aroldolanderos
+  version: "1.0.0"
 ---
 
 # Git Changelog Parser
