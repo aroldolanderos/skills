@@ -2,6 +2,9 @@
 name: make-commits
 description: Analyzes git changes and generates semantic commits iteratively with [Why]/[What]/[Impact] structure. Groups related files, allows manual editing, and executes git add + commit. Use when you have uncommitted changes and need structured messages following conventional commits (feat, fix, docs, refactor, etc.).
 license: MIT
+metadata:
+  author: aroldolanderos
+  version: "1.0.0"
 ---
 
 # Make Commits

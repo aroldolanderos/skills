@@ -2,6 +2,9 @@
 name: user-story-creator
 description: Synthesize completed work into structured User Stories with intelligent subtask grouping. Use when you want to document development activities as a formal User Story (HU) with subtasks, acceptance criteria, and technical narrative. Triggered by user request "/user-story" or when suggesting story creation after completing work.
 license: MIT
+metadata:
+  author: aroldolanderos
+  version: "1.0.0"
 ---
 
 # User Story Creator
